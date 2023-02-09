@@ -8,3 +8,5 @@ It works by opening a UDP port on engine bootup, listens to the Vicon port (defa
 https://github.com/ayumax/EasyXMLParser for the latest and greatest version.
 
 I hold no responsibility for how it works for you and cannot offer any support.
+
+The record feature can be enabled/disabled in the project settings so you can flick it on or off as needed without disabling the plugin. (So you can avoid triggers on test-records etc).
