@@ -1,4 +1,4 @@
-# Auto Record on Vicon Packet Auto-Trigger
+# Take Recorder Auto-Trigger on Vicon Shogun Packet Plugin for UE4/UE5
 
 This plugin is designed to trigger Unreal Engine Take Recorder when a Vicon packet is received, auto-name the take based on the vicon packet, and cut when Vicon cuts.  This was built for a project back in 2020-2021 and has not been tried since.
 
